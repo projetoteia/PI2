@@ -11,7 +11,7 @@
 #include <Mitov_Text.h>
 #include <Mitov_Timing.h>
 
-// Arduino Board Declarations
+// Declaração dos pinots da placa
 
 namespace BoardDeclarations
 {
